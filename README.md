@@ -31,3 +31,13 @@ The objective of this Automation and Robotics project is to determine if Kinect 
 <p align="center">
   <img align="center" width="60%"  src="https://github.com/IvanFernandezGracia/skeleton-kinect-unity-protocol-osc/blob/main/Readme%20files/Imagen2.png">
 </p>
+
+
+<!-- CONTACT -->
+<a name="conta"></a>
+## Contact
+Ivan Alejandro Fernandez Gracia  
+:email: ivan.fernandez.g@usach.cl  
+:telephone_receiver: +56-961214718  
+Mechanical Engineering  
+Universidad de Santiago de Chile
